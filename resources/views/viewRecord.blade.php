@@ -6,6 +6,10 @@
       table, th, td {
         border: 1px solid #666;
       }
+
+      p{
+        font-size:500px;
+      }
  </style>
 
   <title>View Records</title>
@@ -17,6 +21,9 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 </head>
 <body>
+
+<p>YEE SEAI YOU 到此一游！！！</p>
+<p>hahahah</p>
 <div class="container">
   <h2 class="text-center">View Records</h2>
            
